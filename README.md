@@ -7,7 +7,7 @@ Self vpn By ARMAN developer
 ------
 براي اينكار شما به يه يوزر سودو شده از سرور خود نيازمند هستين سپس كد هاي زير رو بزني 
 ````````````````````````````````
-wget https://github.com/Arman2122/vpn/master/setup.sh
+wget https://github.com/Arman2122/self-vpn/master/setup.sh
 
 sudo sh setup.sh
 ````````````````````````````````
@@ -38,3 +38,5 @@ MIT لايسنس
  
 [![https://telegram.me/L_u_a](https://img.shields.io/badge/💬_Arman-developer-blue.svg)]
 #ستاره يادتون نره
+[![https://telegram.me/L_u_a](https://img.shields.io/badge/💬_Arman-developer-green.svg)]
+[![https://telegram.me/L_u_a](https://img.shields.io/badge/💬_Arman-developer-res.svg)]
