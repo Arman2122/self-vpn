@@ -1,5 +1,5 @@
 # self-vpn
-Self vpn By ARMAN developer
+Self vpn By Arman_HC
 ساخت وی پی ان برای سرور های خود
  براي اوبونتو
 --------
@@ -36,7 +36,7 @@ mypass
 يادتون باشه با لايسنس اين سورس هر گروه كپي برداري جرم حساب ميشه
 MIT لايسنس
  
-[![https://telegram.me/L_u_a](https://img.shields.io/badge/💬_Arman-developer-blue.svg)]
+[![https://telegram.me/L_u_a](https://img.shields.io/badge/💬_Arman-blue.svg)]
 #ستاره يادتون نره
-[![https://telegram.me/L_u_a](https://img.shields.io/badge/💬_Arman-developer-green.svg)]
-[![https://telegram.me/L_u_a](https://img.shields.io/badge/💬_Arman-developer-res.svg)]
+[![https://telegram.me/L_u_a](https://img.shields.io/badge/💬_Arman--green.svg)]
+[![https://telegram.me/L_u_a](https://img.shields.io/badge/💬_Arman-res.svg)]
